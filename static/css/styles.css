@@ -18,27 +18,10 @@
     height: 35px;
 }
 
-.vp-play-pause-buttons {
+.vp-buttons {
     border-style: none;
     cursor: pointer;
     color: white;
     background-color: black;
     font-size: 20px;
-}
-.vp-sound-buttons {
-    border-style: none;
-    cursor: pointer;
-    color: white;
-    background-color: black;
-    font-size: 20px;
-}
-.vp-fullscreen-button {
-    border-style: none;
-    cursor: pointer;
-    color: white;
-    background-color: black;
-    font-size: 20px;
-}
-.vp-empty-block {
-    flex-grow: 1;
 }
