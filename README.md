@@ -1,5 +1,5 @@
-## [Продвинутая верстка в Django. Урок 1. Верстка видеоплеера.](https://forluc.github.io/player-layout/)
-Ознакомительная [ссылка](https://forluc.github.io/player-layout/) на плеер
+## [Продвинутая верстка в Django. Урок 1. Верстка видеоплеера.](https://forluc.github.io/player-layout_layout_advanced_1/)
+Ознакомительная [ссылка]([https://forluc.github.io/player-layout/](https://forluc.github.io/player-layout_layout_advanced_1/)) на плеер
 ![Безымянный](https://github.com/Forluc/player-layout/assets/75582238/d92d4b22-ac5d-44f7-8ddc-efe29d964324)
 ## Сценарий использования
 ```bash
